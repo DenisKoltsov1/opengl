@@ -1,0 +1,4 @@
+C:/OpenGL/OpenGL1/Dependencies/CMakeFiles/glad-generate-files.dir
+C:/OpenGL/OpenGL1/Dependencies/CMakeFiles/glad.dir
+C:/OpenGL/OpenGL1/Dependencies/CMakeFiles/ALL_BUILD.dir
+C:/OpenGL/OpenGL1/Dependencies/CMakeFiles/ZERO_CHECK.dir
